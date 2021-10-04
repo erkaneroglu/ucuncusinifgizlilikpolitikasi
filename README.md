@@ -1,4 +1,3 @@
-# ucuncusinifgizlilikpolitikasi
 3. Sınıf Tüm Dersler Uygulaması Gizlilik Politikası
 
 Erkan Eroğlu, 3. Sınıf Tüm Dersler uygulamasını Ücretsiz bir uygulama olarak oluşturdu. Bu HİZMET, Erkan Eroğlu tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
